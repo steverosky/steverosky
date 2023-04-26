@@ -31,12 +31,7 @@ Hi there! I'm a software developer 😁with a passion for full-stack web develop
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=steverosky&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@steve_rosky)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
+![](https://komarev.com/ghpvc/?username=steverosky&color=green)
