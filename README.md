@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi there! I'm a software developer 😁with a passion for full-stack web development and API deployment, and I specialize in using ASP.NET.<br><br>I'm also a curious learner and have been picking up new skills in node.js and typescript. I take pride in writing clean, efficient, and well-documented code. I'm a firm believer in the importance of writing code that is not only functional but also maintainable and scalable.<br><br>In my free time, you can find me tinkering with new tech gadgets, exploring the outdoors, or watching anime and movies. I love to stay active and have some fun🫶🏽.<br><br>If you're interested in collaborating on a project or just want to connect, feel free to reach out to me through email or on my socials. I'm always looking for new opportunities to grow and learn as a developer.
+Hi there! I'm a software developer 😁with a passion for full-stack web development and API deployment, and I specialize in using ASP.NET.<br><br>I'm also a curious learner and have been picking up new skills in node.js and typescript. I take pride in writing clean, efficient, and well-documented code.<br><br>In my free time i like watching anime and movies. I love to stay active and have some fun🫶🏽.<br><br>If you're interested in collaborating on a project or just want to connect, feel free to reach out to me through email or on my socials. I'm always looking for new opportunities to grow and learn as a developer.
 
 
 ## 🌐 Socials:
@@ -40,4 +40,3 @@ Hi there! I'm a software developer 😁with a passion for full-stack web develop
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
