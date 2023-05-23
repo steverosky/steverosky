@@ -1,6 +1,7 @@
 <h1 align="center"> Hey👋🏽, I'm Steve</h1>
 
-<h3 align="center">A passionate C# & .NET developer</h3>
+<h3 align="center">A passionate software developer focusing on **C# & .NET**.</h3>
+
 
 - 🔭 I’m currently working on **Live Auction Website with ASP.NET**
 
