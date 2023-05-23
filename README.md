@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Steve
+### <align="center"> Hi there 👋, I'm Steve
 <h3 align="center">A passionate C# & .NET developer</h3>
 <!--
 - 🔭 I’m currently working on ...
