@@ -1,4 +1,5 @@
-<h1 align="center"> Hi there 👋, I'm Steve</h1>
+<h1 align="center"> Hey👋🏽, I'm Steve</h1>
+
 <h3 align="center">A passionate C# & .NET developer</h3>
 
 - 🔭 I’m currently working on **Live Auction Website with ASP.NET**
@@ -7,11 +8,11 @@
 
 - 👯 I’m looking to collaborate on **Anything C# / .NET**
 
-- 💬 Ask me about Anything **C# / .NET & Cloud Computing
+- 💬 Ask me about Anything **C# / .NET & Cloud Computing**
 
-- 📫 Reach me on: **mailto:oforistep@gmail.com
+- 📫 Reach me on: **mailto:oforistep@gmail.com**
 
-- ⚡ Fun fact: **i love watching anime and movies.
+- ⚡ Fun fact: **i love watching anime and movies.**
 
 <!-- # 💫 About Me:
 I'm a software developer 😁with a passion for full-stack web development and API deployment, and I specialize in using ASP.NET.<br><br>I'm also a curious learner and have been picking up new skills in node.js and typescript. I take pride in writing clean, efficient, and well-documented code.<br><br>In my free time i like watching anime and movies. I love to stay active and have some fun🫶🏽.<br><br>If you're interested in collaborating on a project or just want to connect, feel free to reach out to me through email or on my socials. I'm always looking for new opportunities to grow and learn as a developer. -->
