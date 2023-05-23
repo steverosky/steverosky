@@ -1,10 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Steve
+<h3 align="center">A passionate C# & .NET developer</h3>
 <!--
-**steverosky/steverosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi there! I'm a software developer 😁with a passion for full-stack web development and API deployment, and I specialize in using ASP.NET.<br><br>I'm also a curious learner and have been picking up new skills in node.js and typescript. I take pride in writing clean, efficient, and well-documented code.<br><br>In my free time i like watching anime and movies. I love to stay active and have some fun🫶🏽.<br><br>If you're interested in collaborating on a project or just want to connect, feel free to reach out to me through email or on my socials. I'm always looking for new opportunities to grow and learn as a developer.
+I'm a software developer 😁with a passion for full-stack web development and API deployment, and I specialize in using ASP.NET.<br><br>I'm also a curious learner and have been picking up new skills in node.js and typescript. I take pride in writing clean, efficient, and well-documented code.<br><br>In my free time i like watching anime and movies. I love to stay active and have some fun🫶🏽.<br><br>If you're interested in collaborating on a project or just want to connect, feel free to reach out to me through email or on my socials. I'm always looking for new opportunities to grow and learn as a developer.
 
 
 ## 🌐 Socials:
