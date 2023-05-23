@@ -11,7 +11,7 @@
 
 - 💬 Ask me about Anything **C# / .NET & Cloud Computing**
 
-- 📫 Reach me on: **mailto:oforistep@gmail.com**
+- 📫 Reach me on: mailto:oforistep@gmail.com
 
 - ⚡ Fun fact: **i love watching anime and movies.**
 
