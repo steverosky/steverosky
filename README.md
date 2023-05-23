@@ -1,18 +1,17 @@
-### <align="center"> Hi there 👋, I'm Steve
+<h1 align="center"> Hi there 👋, I'm Steve</h1>
 <h3 align="center">A passionate C# & .NET developer</h3>
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-I'm a software developer 😁with a passion for full-stack web development and API deployment, and I specialize in using ASP.NET.<br><br>I'm also a curious learner and have been picking up new skills in node.js and typescript. I take pride in writing clean, efficient, and well-documented code.<br><br>In my free time i like watching anime and movies. I love to stay active and have some fun🫶🏽.<br><br>If you're interested in collaborating on a project or just want to connect, feel free to reach out to me through email or on my socials. I'm always looking for new opportunities to grow and learn as a developer.
 
+- 🔭 I’m currently working on Live Auction Website with ASP.NET
+- 🌱 I’m currently learning JavaScript/TypeScript and DevOps
+- 👯 I’m looking to collaborate on Anything C# / .NET
+- 💬 Ask me about Anything C# / .NET & Cloud Computing
+- 📫 Reach me on: mailto:oforistep@gmail.com
+- ⚡ Fun fact: i love watching anime and movies.
+
+<!-- # 💫 About Me:
+I'm a software developer 😁with a passion for full-stack web development and API deployment, and I specialize in using ASP.NET.<br><br>I'm also a curious learner and have been picking up new skills in node.js and typescript. I take pride in writing clean, efficient, and well-documented code.<br><br>In my free time i like watching anime and movies. I love to stay active and have some fun🫶🏽.<br><br>If you're interested in collaborating on a project or just want to connect, feel free to reach out to me through email or on my socials. I'm always looking for new opportunities to grow and learn as a developer. -->
+
+![](https://komarev.com/ghpvc/?username=steverosky&color=green)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_dove_rosky) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephen-ofori-yeboah-86140120b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@steve_rosky) 
@@ -24,10 +23,5 @@ I'm a software developer 😁with a passion for full-stack web development and A
 ![](https://github-readme-streak-stats.herokuapp.com/?user=steverosky&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=steverosky&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=steverosky&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-![](https://komarev.com/ghpvc/?username=steverosky&color=green)
