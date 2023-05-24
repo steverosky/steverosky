@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript/TypeScript and DevOps**
 
-- 👯 I’m looking to collaborate on **Anything C# / .NET**
-
-- 💬 Ask me about Anything **C# / .NET & Cloud Computing**
+- 👯 I’m looking for a collaborator on a ** C# / .NET HR Management and Payroll Website**
 
 - 📫 Reach me on: **oforistep@gmail.com**
 
